@@ -1,0 +1,1 @@
+Sitemap: https://trackmania-ai.github.io/aifront/sitemap.xml

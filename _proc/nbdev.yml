@@ -1,0 +1,9 @@
+project:
+  output-dir: docs
+
+website:
+  title: "aifront"
+  site-url: "https://trackmania-ai.github.io/aifront/"
+  description: "Backend for the trackmania.ai project"
+  repo-branch: master
+  repo-url: "https://github.com/trackmania-ai/aifront/tree/master/"
